@@ -1,13 +1,8 @@
----
-
-👋 Hi, I’m @shintadea  
-👀 I’m interested in Laravel, Vue.js, VB.NET, and PHP  
-🌱 I’m currently learning Python and Japanese  
-💞️ I’m looking to collaborate on Laravel projects  
-📫 How to reach me: Instagram [@shinta.dea_](https://www.instagram.com/shinta.dea_) | LinkedIn [shintadea](https://www.linkedin.com/in/shintadea)  
-😄 Pronouns: she/her
-⚡ Fun fact: I love learning new things, reading books, and exploring different kinds of music!
-<!---
-shintadea/shintadea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Shinta Dewi Agustina (@shintadea)
+🚀 Passionate about Web Development and User Experience Design
+💻 Proficient in Laravel, Vue.js, PHP, and currently exploring Python
+🌐 Enthusiastic about building intuitive and user-friendly applications
+🎓 Lifelong learner with a keen interest in technology and innovation
+📚 Avid reader and music enthusiast, always exploring new horizons
+👥 Open to collaborations in Laravel and other exciting projects
+🌸 Follow me on Instagram [@shinta.dea_](https://www.instagram.com/shinta.dea_) and connect on LinkedIn [@shintadea](https://www.linkedin.com/in/shintadea/)
